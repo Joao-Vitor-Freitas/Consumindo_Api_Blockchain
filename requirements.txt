@@ -1,1 +1,3 @@
-flask
+fastapi[standard]
+requests
+certifi
