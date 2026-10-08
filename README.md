@@ -6,6 +6,11 @@ Muitas pessoas se sentem perdidas em quando investir em criptomoedas e entender 
 ## Solução
 Buscar as maiores transações ("whales") dentro do bloco mais recente da rede Bitcoin para ter uma ideia clara do volume financeiro que está sendo movimentado no momento e quais carteiras/entidades estão por trás dessas grandes operações.
 
+Integrantes: 
+• RM 573865 – João Victor Sant'Ana Cortabitart 
+• RM 574025 – João Victor Barbon Naymayer 
+• RM 573678 – João Vitor Dutra de Freitas
+
 ---
 
 # Como Rodar
